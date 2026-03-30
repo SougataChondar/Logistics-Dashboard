@@ -83,6 +83,74 @@ Built measures like:
 - Vehicle age vs breakdown trends
 
 ## 📸 Dashboard Preview
+### 🏠 Logistics Overview
+<p align="center">
+  <img src="Dashboard Preview/Screenshot 2026-03-30 092155.png" width="800"/>
+</p>
+
+This dashboard provides insights into sales performance, profit trends, and regional analysis.
+
+### 🚗 Drivers Overview
+<p align="center">
+  <img src="Dashboard Preview/Screenshot 2026-03-30 092211.png" width="800"/>
+</p>
+
+This dashboard provides all of Drivers performance, ratings, YOE.
+
+### 🏬 Hubs Oberview
+<p align="center">
+  <img src="Dashboard Preview/Screenshot 2026-03-30 092227.png" width="800"/>
+</p>
+
+This page includes overall Hubs performnce, oder capacity and order process capacity, daily performance.
+
+### 🚛 Vehicles Overview
+<p align="center">
+  <img src="Dashboard Preview/Screenshot 2026-03-30 092247.png" width="800"/>
+</p>
+
+This dashboard provides detailed analysis about vehicles like active-under maintenance vehicles, order deliveris by vehicle type, total orders delivered by vehicle model.
+
+## 📈 Key Insights
+- Identified gaps between hub capacity and actual processed orders.
+- Highlighted drivers contributing to maximum delays.
+- Found trends in vehicle usage and maintenance distribution.
+- Observed variations in delivery performance across months and days.
+
+---
+
+## 💡 Business Recommendations
+- Optimize underperforming hubs to improve processing efficiency
+- Provide training or route optimization for high-delay drivers
+- Improve maintenance scheduling to reduce inactive vehicles
+- Allocate vehicles based on demand trends and performance
+
+---
+
+## 🚀 Future Enhancements
+- Integration with real-time data sources
+- Predictive analytics for delivery delays
+- Advanced drill-through reports
+- Role-based dashboard access
+
+---
+
+## 📌 Conclusion
+
+This Logistics Dashboard demonstrates the power of data modeling and advanced DAX in transforming raw logistics data into meaningful insights.
+
+It serves as a comprehensive solution for stakeholders to monitor operations, improve efficiency, and drive better decision-making.
+
+---
+
+## ❤️ Contributing
+
+Contributions are welcome! Fork the repository, create a new branch, and submit your pull request with improvements or new features.
+
+---
+
+✨ Let’s use data to make informed decisions and create safer communities! ✨
+
 
 
 
